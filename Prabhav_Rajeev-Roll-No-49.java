@@ -58,7 +58,7 @@ public class Prabhav_Rajeev_Roll_No_49 {
             k++;
         }
     }
-    public void main(String[] args){
+    public static void main(String[] args){
         int n;
         Scanner in= new Scanner(System.in);
         n=in.nextInt();
